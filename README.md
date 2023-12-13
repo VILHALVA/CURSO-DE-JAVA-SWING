@@ -79,3 +79,30 @@ public class ExemploSwing {
 }
 ```
 
+# CARACTERÍSTICAS:
+## POSITIVAS:
+- **Multiplataforma:** Java Swing é multiplataforma, permitindo o desenvolvimento de aplicativos que podem ser executados em diferentes sistemas operacionais.
+
+- **Componentes Gráficos:** Oferece uma ampla variedade de componentes gráficos, facilitando a criação de interfaces de usuário ricas e interativas.
+
+- **Look and Feel Consistente:** Proporciona um "look and feel" consistente em diversas plataformas, contribuindo para a experiência do usuário.
+
+- **API Rica:** Possui uma API robusta que oferece flexibilidade e extensibilidade no desenvolvimento de interfaces gráficas.
+
+- **Integração com Outras Tecnologias Java:** Pode ser facilmente integrado com outras tecnologias Java, como JDBC para acesso a banco de dados.
+
+- **Documentação Abundante:** Há uma vasta quantidade de documentação e recursos disponíveis para ajudar os desenvolvedores durante o processo de aprendizado e desenvolvimento.
+
+## NEGATIVAS:
+- **Desempenho em Aplicações Complexas:** Pode apresentar desempenho inferior em aplicações complexas e pesadas devido à sua natureza baseada em máquina virtual.
+
+- **Aparência Nativa Limitada:** Embora ofereça um "look and feel" consistente, a aparência pode parecer menos nativa em comparação com tecnologias mais recentes.
+
+- **Curva de Aprendizado:** Para iniciantes, a curva de aprendizado pode ser um pouco íngreme, especialmente ao lidar com layout e posicionamento de componentes.
+
+- **Customização Limitada:** A customização da aparência dos componentes gráficos pode ser limitada, tornando desafiador alcançar designs altamente personalizados.
+
+- **Menos Recursos de Design Visual:** Comparado a algumas tecnologias mais modernas, a falta de recursos avançados de design visual pode tornar o desenvolvimento de interfaces mais manual.
+
+- **Comunidade Menos Ativa:** Em comparação com algumas tecnologias mais recentes, a comunidade em torno de Java Swing pode ser menos ativa.
+
