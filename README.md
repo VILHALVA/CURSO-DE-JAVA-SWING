@@ -2,17 +2,9 @@
 👨‍⚖️JAVA SWING É UMA BIBLIOTECA GRÁFICA PARA CRIAÇÃO DE INTERFACES DE USUÁRIO EM APLICATIVOS JAVA. ELA FORNECE UM CONJUNTO DE COMPONENTES E CLASSES QUE PERMITEM A CRIAÇÃO DE JANELAS, BOTÕES, CAIXAS DE DIÁLOGO E OUTROS ELEMENTOS VISUAIS EM PROGRAMAS JAVA.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=JAVA%20SWING)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVA)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLwH4Cv_WLhLbc4H-aOh3xFywPGxhaso_b&si=P4Qve44T_F_BQQQR)
-
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/09/icon.svg_gw9Uhzy.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O Java Swing é um conjunto de bibliotecas gráficas para o desenvolvimento de interfaces gráficas de usuário (GUIs) em Java. Ele faz parte do pacote javax.swing, e é uma extensão da biblioteca AWT (Abstract Window Toolkit). Swing fornece uma ampla variedade de componentes gráficos, como botões, caixas de texto, listas, tabelas, entre outros, que podem ser utilizados para criar aplicações desktop interativas e visualmente atraentes.
