@@ -1,7 +1,7 @@
 # CURSO DE JAVA SWING
 👨‍⚖️JAVA SWING É UMA BIBLIOTECA GRÁFICA PARA CRIAÇÃO DE INTERFACES DE USUÁRIO EM APLICATIVOS JAVA. ELA FORNECE UM CONJUNTO DE COMPONENTES E CLASSES QUE PERMITEM A CRIAÇÃO DE JANELAS, BOTÕES, CAIXAS DE DIÁLOGO E OUTROS ELEMENTOS VISUAIS EM PROGRAMAS JAVA.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 O Java Swing é um conjunto de bibliotecas gráficas para o desenvolvimento de interfaces gráficas de usuário (GUIs) em Java. Ele faz parte do pacote javax.swing, e é uma extensão da biblioteca AWT (Abstract Window Toolkit). Swing fornece uma ampla variedade de componentes gráficos, como botões, caixas de texto, listas, tabelas, entre outros, que podem ser utilizados para criar aplicações desktop interativas e visualmente atraentes.
@@ -78,6 +78,6 @@ A história do Java Swing remonta ao final da década de 1990, quando a Sun Micr
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVA)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:JAVA-SWING)
-
