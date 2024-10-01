@@ -1,4 +1,7 @@
 # MANUAL
+
+---
+
 ## USANDO O NETBEANS IDE:
 ### 1. INSTALAÇÃO:
 O NetBeans IDE é uma IDE popular para desenvolvimento Java.
@@ -57,6 +60,8 @@ public class Main {
 
 ### CONCLUSÃO:
 Agora você tem o NetBeans IDE instalado e configurado, e criou um projeto Java com uma interface gráfica usando Java Swing. A partir daqui, você pode explorar mais sobre o desenvolvimento de aplicativos desktop em Java e as possibilidades oferecidas pelo Java Swing para criar interfaces gráficas interativas.
+
+---
 
 ## USANDO O MVN:
 O **Maven** (`mvn`) é uma ferramenta popular de automação de build e gerenciamento de dependências para projetos Java. Ele facilita o processo de construir, testar e empacotar seus projetos, além de gerenciar bibliotecas externas (dependências) de forma centralizada.
@@ -129,8 +134,6 @@ meu-projeto/
   │                       └── App.java  # Classe Java principal
   ├── pom.xml  # Arquivo de configuração Maven
 ```
-
----
 
 #### 3. CONFIGURAR DEPENDÊNCIAS NO `POM.XML`:
 O arquivo `pom.xml` é o coração do seu projeto Maven. Ele contém as configurações e dependências que o Maven precisa para compilar e executar seu projeto.
