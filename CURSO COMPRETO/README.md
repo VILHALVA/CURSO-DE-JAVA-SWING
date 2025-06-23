@@ -35,12 +35,12 @@
 - [30) TESTANDO INCLUSÃO DE REGISTRO E CORRIGINDO POSSÍVEIS ERROS](./README.md#30-testando-inclusão-de-registro-e-corrigindo-possíveis-erros)
 - [31) UTIL - CENTRALIZAR JINTERNALFRAME](./README.md#31-util---centralizar-jinternalframe)
 - [32) UTIL - CLASSE TABELA: CRIANDO A TABELA DO TIPOCONTATOVISAO](./README.md#32-util---classe-tabela-criando-a-tabela-do-tipocontatovisao)
-- [33) CONSULTA: SELECIONANDO REGISTROS DO BANCO E MOSTRANDO NA TABELA](./README.md#33-consulta-selecionando-registros-do-banco-e-mostrando-na-tabela)
+- [33) CONSULTA: SELECIONANDO REGISTROS DO BANCO E MOSTRANDO NA TABELA](./README.md#33-selecionados-registros-do-banco-de-dados-e-mostrando-na-tabela-de-consulta)
 - [34) DAO: PREPARANDO O FILTRO DE REGISTROS PARA EXIBIÇÃO NA TABELA](./README.md#34-dao-preparando-o-filtro-de-registros-para-exibição-na-tabela)
 - [35) FORMPADRAO: CRIANDO EVENTO LISTENER DO JTFCONSULTA](./README.md#35-formpadrao-criando-evento-listener-do-jtfconsulta)
-- [36) ATUALIZANDO O FORMULÁRIO - EVENTO MOUSECLICKED](./README.md#36-atualizando-o-formulário---evento-mouseclicked)
+- [36) ATUALIZANDO O FORMULÁRIO - EVENTO MOUSECLICKED](./README.md#36-atualizando-o-formul%C3%A1rio-evento-mouseclicked)
 - [37) CORRIGINDO O ERRO DE CONVERSÃO NO MOMENTO DE SALVAR A ALTERAÇÃO DE DADOS](./README.md#37-corrigindo-o-erro-de-conversão-no-momento-de-salvar-a-alteração-de-dados)
-- [38) FORMPADRAO - EVENTO PARA ESCUTAR AS TECLAS SETA ACIMA OU ABAIXO NA TABELA](./README.md#38-formpadrao---evento-para-escutar-as-teclas-seta-acima-ou-abaixo-na-tabela)
+- [38) FORMPADRAO - EVENTO PARA ESCUTAR AS TECLAS SETA ACIMA OU ABAIXO NA TABELA](./README.md#38-formpadrao-evento-para-escutar-as-teclas-seta-acima-ou-abaixo-na-tabela)
 - [39) EXCLUINDO REGISTROS](./README.md#39-excluindo-registros)
 ---
 
